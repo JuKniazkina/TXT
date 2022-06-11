@@ -1,1 +1,10 @@
-
+Заколовок: Conditions and Wishes - page not found (error 404)
+Шаги:
+ 1. Open main page
+ 2. Sroll the page to the buttom menu
+ 3. Find the block Buyers
+ 4. Open section Conditions and Wishes
+Результат: The page opens with error 404 (page not found)
+Ожидаемый результат: The page Conditions and Wishes opens
+Вид бага: Functional
+Серьезность бага: Critial
